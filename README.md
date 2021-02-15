@@ -6,4 +6,4 @@
 
 ----
 ### Git & GitHub
-### javascriptm 
+### javascript
