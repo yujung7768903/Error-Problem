@@ -4,6 +4,6 @@
 
 ### 요소의 따른 속성들
 |요소|속성|
-|---|---|---|
+|---|---|
 |input|요소.value|
 |div|요소.innerText, 요소.innerHtml|
